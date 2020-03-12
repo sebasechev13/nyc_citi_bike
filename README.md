@@ -1,16 +1,4 @@
-# Tableau Homework - Citi Bike Analytics
 
-### Before You Begin
-
-* This assignment will be saved to your tableau public account rather than github. 
-
-* If you haven't already, be sure to create a tableau public account [here](https://public.tableau.com/s/).
-
-* The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
 
 ## Background
 
@@ -63,7 +51,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 **Next, as a chronic over-achiever:**
 
 * Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
-* The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
+* The dashboards should be accompanied with an analysis explaining why the phenomena may be occurring. 
 
 **City officials would also like to see one of the following visualizations:**
 
@@ -132,6 +120,5 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-### Copyright
 
-Data Boot Camp (C) 2019. All Rights Reserved.
+
